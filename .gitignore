@@ -28,12 +28,16 @@ __pycache__
 .#*
 .coverage
 src
-
+*.mp4
+*.jpg
 *.swp
 *.map
 .idea/
 Read the Docs
 config.rst
+
+data/
+samples/
 
 /.project
 /.pydevproject
